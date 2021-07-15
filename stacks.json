@@ -1,0 +1,21 @@
+{
+  "title": "Lehman's Challenge",
+  "description": "Lehman's Challenge",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  
+  "document": "lehman_challenge",
+  "stack_id": "lehman_challenge",
+  "type": "dataset",
+  "categories": [
+    "Education"
+  ],
+  "git_url": "https://github.com/i-data-explorer/lehman-challenge-tile.git",
+  "git_commit": "460cd7f7dbea422e75352f3d6fb2aa1e8893ecb1",
+  "managed_by": ["Edge"],
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+}
