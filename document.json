@@ -1,6 +1,6 @@
 {
-  "name": "Lehman's Challenge",
-  "description": "Lehman's Challenge",
+  "name": "Le Mans Challenge",
+  "description": "Le Mans Challenge",
   "logo": "_images/notebook-1.png",
   "has_supporting_content": false,
   "de_catalog_id": "lehman_challenge",
@@ -19,7 +19,7 @@
       "Notebook"
     ],
     "Dataset": [
-      "Lehman's Challenge"
+      "Le Mans Challenge"
     ], 
     "Categories": [
       "Education"
